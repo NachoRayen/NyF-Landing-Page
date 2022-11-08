@@ -205,6 +205,7 @@ main{
 
 .modder-factory-container img{
     height: 200px;
+    border-radius: 2rem;
 }
 
 .modder-factory-container p{
